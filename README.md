@@ -278,4 +278,4 @@ The council returns abstain votes if a model is unavailable.
 
 ## License
 
-Apache 2.0
+Business Source License 1.1 (source-available) -- see [LICENSE](LICENSE). Free for non-commercial, evaluation, and small-organization use (annual revenue under USD 1,000,000); other production use requires a commercial license from GuardSpine, Inc. Each version converts to Apache-2.0 four years after its release.
