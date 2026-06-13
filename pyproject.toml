@@ -4,10 +4,10 @@ build-backend = "hatchling.build"
 
 [project]
 name = "guardspine-local-council"
-version = "0.1.0"
+version = "2.0.0"
 description = "Local AI council review using Ollama -- no cloud API keys required"
 readme = "README.md"
-license = "Apache-2.0"
+license = "BUSL-1.1"
 requires-python = ">=3.10"
 dependencies = [
     "guardspine-kernel>=0.2.0",
